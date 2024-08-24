@@ -1235,3 +1235,14 @@ h1 {
     padding-right: 20px 15px;
   }
 }
+
+
+
+/* # Heading of Projects */
+.styled-heading {
+  text-align: center;
+  background-color: hsl(168, 75%, 69%); /* You can change this color */
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold; /* This makes the text bold */
+}
